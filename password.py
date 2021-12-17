@@ -10,5 +10,5 @@ def password(word):
            "password" not in word.lower() and len(word) > 5
 
 
-wrd = input()
-print(password(wrd))
+# wrd = input()
+# print(password(wrd))

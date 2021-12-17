@@ -13,7 +13,7 @@ def summ(*args):
         return 0
 
 
-print(summ())
-print(summ(1, 2, 3, 4, 5))
-print(summ('q', 'w', 'e', 'r', 't', 'y'))
-print(summ('k', 0, 'm', 'm', 4, 'n', 'd', 0))
+# print(summ())
+# print(summ(1, 2, 3, 4, 5))
+# print(summ('q', 'w', 'e', 'r', 't', 'y'))
+# print(summ('k', 0, 'm', 'm', 4, 'n', 'd', 0))
